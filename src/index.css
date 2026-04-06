@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Outline&family=Wix+Madefor+Display:wght@400..800&display=swap');
+
+@import "tailwindcss";
+
+body{
+  padding: 0;
+  margin: 0;
+  overflow-x: hidden;
+  background-color: black;
+  color: white;
+  font-family: "Wix Madefor Display", sans-serif;
+}
+
+.wixmade{
+  font-family: "Wix Madefor Display", sans-serif;
+}
+
+.bungee{
+  font-family: "Bungee Outline", sans-serif;
+}
